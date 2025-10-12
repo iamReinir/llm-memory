@@ -1,0 +1,5 @@
+[database]
+path = "sqlite:////home/reinir/memory.db"
+
+[meta]
+name = "llm-memory"
