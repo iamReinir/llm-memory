@@ -1,5 +1,5 @@
 import tomli
-from mcp.server.fastmcp import FastMCP
+from fastmcp import FastMCP
 
 with open("config.toml", "rb") as f:
     data = tomli.load(f)
